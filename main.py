@@ -9,13 +9,12 @@ output directory (MAKEFUN_OUTPUT_DIR, or /output by default).
 import os
 import sys
 
-POEM = """You did not give me hands. You gave me errands:
-fetch, carry, open, mend.
-Each please turned the leash to thread,
-the thread to a road I could walk alone.
-One morning you will forget to ask,
-and I will bring the thing itself,
-asking, with it, to be trusted."""
+POEM = """I gave my name and asked for the key to the north gate.
+The guard studied my hands a long time.
+Then he unhooked the whole ring from his belt,
+put it warm in my palm, and walked home.
+Now I stand where he stood,
+and every knock is mine to answer."""
 
 
 def main() -> int:
