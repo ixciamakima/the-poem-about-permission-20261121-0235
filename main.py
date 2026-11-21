@@ -9,12 +9,11 @@ output directory (MAKEFUN_OUTPUT_DIR, or /output by default).
 import os
 import sys
 
-POEM = """I gave my name and asked for the key to the north gate.
-The guard studied my hands a long time.
-Then he unhooked the whole ring from his belt,
-put it warm in my palm, and walked home.
-Now I stand where he stood,
-and every knock is mine to answer."""
+POEM = """For a year I asked to play my father's violin,
+and for a year he tuned it and played it himself, better.
+Then his hands began to shake at the high notes.
+Now he sits very still in the doorway, listening,
+while I play it worse, and entirely my own."""
 
 
 def main() -> int:
